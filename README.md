@@ -38,7 +38,7 @@ Transforming <b>data into insights</b> and <b>AI into intelligent automation</b>
 
 ---
 
-## 🛠️ **Skills & Tools (Interactive Icons)**
+## 🛠️ **Skills & Tools**
 
 ## 🛠️ Skills & Expertise
 
