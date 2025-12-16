@@ -45,8 +45,8 @@ Transforming <b>data into insights</b> and <b>AI into intelligent automation</b>
 ### 📊 **Data Analytics & BI**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://skillicons.dev/icons?i=excel" />
+  <img src="https://skillicons.dev/icons?i=tableau" />
   <img src="https://skillicons.dev/icons?i=tableau" />
   <img src="https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Statistics-005571" />
