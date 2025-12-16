@@ -141,13 +141,13 @@ Transforming <b>data into insights</b> and <b>AI into intelligent automation</b>
 
 ## 🌐 **Let's Connect**
 <p align="center">
-  <a href="https://www.linkedin.com/in/tanvibarve">
+  <a href="https://www.linkedin.com/in/tanvi-barve-9b7166309/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:tanvibarve@email.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://github.com/tanvibarve">
+  <a href="https://github.com/Tanvi721">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
