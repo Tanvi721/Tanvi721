@@ -144,7 +144,7 @@ Transforming <b>data into insights</b> and <b>AI into intelligent automation</b>
   <a href="https://www.linkedin.com/in/tanvi-barve-9b7166309/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:tanvibarve@email.com">
+  <a href="mailto:tanvibarve2107@email.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://github.com/Tanvi721">
