@@ -43,15 +43,21 @@ Transforming <b>data into insights</b> and <b>AI into intelligent automation</b>
 ## 🛠️ Skills & Expertise
 
 ### 📊 **Data Analytics & BI**
+### 📊 **Data Analytics & BI**
+
 <p>
+  <!-- SkillIcons -->
   <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=excel" />
-  <img src="https://skillicons.dev/icons?i=tableau" />
+
+  <!-- Shields.io icons -->
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Statistics-005571" />
   <img src="https://img.shields.io/badge/Data%20Cleaning-0099ff" />
   <img src="https://img.shields.io/badge/Data%20Visualization-ff69b4" />
 </p>
+
 
 
 ---
