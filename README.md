@@ -43,7 +43,6 @@ Transforming <b>data into insights</b> and <b>AI into intelligent automation</b>
 ## 🛠️ Skills & Expertise
 
 ### 📊 **Data Analytics & BI**
-### 📊 **Data Analytics & BI**
 
 <p>
   <!-- SkillIcons -->
