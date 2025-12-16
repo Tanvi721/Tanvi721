@@ -34,7 +34,7 @@ Transforming <b>data into insights</b> and <b>AI into intelligent automation</b>
 - 🤖 Building automation workflows using **n8n**, AI APIs, and custom agents  
 - 📊 Skilled in **data analysis**, **dashboarding**, **ML pipelines**, and **ETL workflows**
 - 💡 Love creating **smart, automated systems** to reduce manual work  
-- 📬 Reach me at: **tanvibarve@email.com** (replace with your mail!)
+- 📬 Reach me at: **tanvibarve2107@email.com** (replace with your mail!)
 
 ---
 
