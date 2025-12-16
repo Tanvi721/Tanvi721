@@ -140,7 +140,7 @@ Transforming <b>data into insights</b> and <b>AI into intelligent automation</b>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=tanvibarve&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?user=Tanvi721&theme=radical" />
 </p>
 
 ---
