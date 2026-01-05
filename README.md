@@ -133,7 +133,6 @@ Transforming <b>data into insights</b> and <b>AI into intelligent automation</b>
 ---
 
 ## 📈 **GitHub Stats**
-
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=Tanvi721&show_icons=true&theme=radical" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvi721&layout=compact&theme=radical" />
